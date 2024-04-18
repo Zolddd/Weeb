@@ -1,0 +1,27 @@
+header{
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+}
+.cards{
+    display: flex;
+}
+.card{
+    margin-left: 155px;
+}
+footer{
+    margin: 0px;
+    padding: 10px;
+    color: white;
+    background-color: #000000cf;
+}
+footer p img{
+    position: relative;
+    right: 8px;
+    top: 4px;
+}
+footer .text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
